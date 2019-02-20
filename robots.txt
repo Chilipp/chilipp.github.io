@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: <https://chilipp.github.io/sitemap.xml>
+Sitemap: <http://www.philipp-s-sommer.de/sitemap.xml>
